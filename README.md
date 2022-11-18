@@ -1,7 +1,5 @@
-
 <div align="center">
 
-![](https://pic.imgdb.cn/item/6377115c16f2c2beb11042e3.png)
     
 # 智能防疫系统
     
