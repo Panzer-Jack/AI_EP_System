@@ -3,7 +3,7 @@
     
 # 智能防疫系统
     
-_✨ 基于 [Python]() + [MysQL]()  实现 ✨_  
+_✨ 基于 [Python]() + [MariaDB]()  实现 ✨_  
     
  AI epidemic prevention access control system - upper and lower computers include identification, health code detection, real-time monitoring, temperature monitoring, mask detection and other functions.
     
